@@ -16,7 +16,7 @@
     "url": "https://github.com/CommanderXL/locale-path-loader/issues"
   },
   "homepage": "https://github.com/CommanderXL/locale-path-loader#readme",
-  "devDependencies": {
+  "dependencies": {
     "loader-utils": "^1.1.0"
   }
 }
